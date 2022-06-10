@@ -45,5 +45,6 @@ Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Valor | Valor | Valor
 
+
 Carregar imagens, usar tag html :
-<img src="/image/image01.png">
+<<img src="/pasta/arquivo.jpg">>
