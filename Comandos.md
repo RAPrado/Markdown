@@ -43,7 +43,7 @@ Valor | Valor | Valor
 Link
 [Acesso meu site](https://site.com)
 
-Carregar imagens, usar tag html :<p>
+Carregar imagens, usar tag html, vide exemplo no comentário do código:
 <!---
 <img src="/pasta/arquivo.jpg">
 -->
