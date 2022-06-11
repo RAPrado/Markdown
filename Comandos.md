@@ -29,11 +29,6 @@ Lista de Tarefas
 - [] A fazer.
 - [x] Feito.
 
-
-Link
-[Acesso meu site](https://site.com)
-
-
 Exemplo   | Valor do exemplo
 --------- | ------
 Exemplo 1 | R$ 10
@@ -45,6 +40,8 @@ Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Valor | Valor | Valor
 
+Link
+[Acesso meu site](https://site.com)
 
 Carregar imagens, usar tag html :
-<<img src="/pasta/arquivo.jpg">>
+[//]: <img src="/pasta/arquivo.jpg">
