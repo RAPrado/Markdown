@@ -43,5 +43,5 @@ Valor | Valor | Valor
 Link
 [Acesso meu site](https://site.com)
 
-Carregar imagens, usar tag html :
-[//]: <img src="/pasta/arquivo.jpg">
+Carregar imagens, usar tag html :<p>
+[//]: <> <img src="/pasta/arquivo.jpg">
