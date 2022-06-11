@@ -44,5 +44,6 @@ Link
 [Acesso meu site](https://site.com)
 
 Carregar imagens, usar tag html :<p>
-<!--- <img src="/pasta/arquivo.jpg">
+<!---
+<img src="/pasta/arquivo.jpg">
 -->
