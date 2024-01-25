@@ -1,4 +1,4 @@
-Comandos em Markdown
+# Comandos em Markdown
 
 **negrito** ou __negrito__
 *italico*
@@ -47,3 +47,9 @@ Carregar imagens, usar tag html, vide exemplo no comentário do código:
 <!---
 <img src="/pasta/arquivo.jpg">
 -->
+
+# Exemplo com código de programação Python
+```python
+variavel = 1;
+print("Valor da variavel:"+str(variavel))
+```
